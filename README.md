@@ -9,7 +9,7 @@
     </a>
    </h1>
 
-<h3 align="center">A passionate frontend developer from Bangladesh<img align="center" alt="Coding" width="38" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/bangladesh-198_256.gif"></h3>
+<h3 align="center">A passionate Python Developer from Bangladesh<img align="center" alt="Coding" width="38" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/bangladesh-198_256.gif"></h3>
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 <p align="left"> 
@@ -36,6 +36,10 @@
 - 📫 How to reach me **naiyannoor@gmail.com**
 
 - ⚡ Fun fact **Always Want To Learn More 📚**
+
+## Certificates
+<img align="center" alt="Coding" width="800" src="https://github.com/naiyannoor365/NaiyanNoor/blob/main/Certificates/Cer1.png">
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
